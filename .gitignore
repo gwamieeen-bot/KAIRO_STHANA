@@ -1,0 +1,7 @@
+.env
+node_modules/
+kairo_sthana.db
+uploads/
+
+*backup*
+views/dashboard-before-click-gallery.html
